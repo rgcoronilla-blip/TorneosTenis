@@ -1,0 +1,8 @@
+# Tema de la aplicación (se aplica al ejecutar `streamlit run app_streamlit.py` desde esta carpeta).
+# No fijamos "base": se respeta el tema claro u oscuro que elija cada usuario.
+[theme]
+primaryColor = "#2e7d32"
+font = "sans serif"
+
+[client]
+toolbarMode = "minimal"
